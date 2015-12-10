@@ -1,13 +1,3 @@
-target
-.idea_modules/
+.history
 .idea/
-target/
-*~
-.classpath
-.cache
-.project
-.settings/
-*.iml
-*.stackdump
-project/target/
-
+target
